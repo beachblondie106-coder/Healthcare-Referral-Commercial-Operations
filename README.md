@@ -127,5 +127,9 @@ The build does not replace the raw source files. The optional `--regenerate` arg
 ## Project Notes
 
 All organizations, accounts, referral records, and operational activity in this repository are synthetic. The report is a completed local Power BI Desktop case study; it has not been published to the Power BI Service and does not represent production deployment, formal user acceptance testing, clinical outcomes, or financial impact.
-illips106) · [GitHub](https://github.com/beachblondie106-coder)
+## Author
 
+**Lisa A. Phillips, MBA**  
+Healthcare Analytics | Business Intelligence | Commercial Operations
+
+[LinkedIn](https://www.linkedin.com/in/lisaphillips106) · [GitHub](https://github.com/beachblondie106-coder)
