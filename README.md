@@ -1,4 +1,4 @@
-# Healthcare Sales Operations: Referral Performance & Workflow Improvement
+# Healthcare Referral & Commercial Operations Analytics
 
 A synthetic healthcare operations portfolio project that turns referral, follow-up, activity, ownership, and target records into a reporting model for sales and intake operations.
 
@@ -130,6 +130,6 @@ All organizations, accounts, referral records, and operational activity in this 
 ## Author
 
 **Lisa A. Phillips, MBA**  
-Healthcare Analytics | Business Intelligence | Commercial Operations
+Healthcare Operations & Analytics | Commercial, Medicare & Medicaid | Business Intelligence
 
 [LinkedIn](https://www.linkedin.com/in/lisaphillips106) · [GitHub](https://github.com/beachblondie106-coder)
