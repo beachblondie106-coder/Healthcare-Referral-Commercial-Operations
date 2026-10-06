@@ -115,13 +115,3 @@ Sales-account ownership and intake-case ownership are different fields. Missing 
 
 Do not claim that the proposed workflow increased appointments, improved clinical outcomes, or saved employer money. Those claims would require a real implementation and a suitable evaluation. AI assisted the starter data, code, and documentation; the project owner should review, adapt, reproduce, and explain the work before presenting it as a completed portfolio case study.
 
-## Reference context
-
-The case study is independent. Employer postings informed the skill themes, not the synthetic data or assumptions. Retrieved September 30, 2026:
-
-- IVX Health, Manager, Sales Operations: https://job-boards.greenhouse.io/ivxhealth/jobs/4290169009
-- Cognizant, Healthcare Communications Consultant: https://careers.cognizant.com/us-en/jobs/00070471711/healthcare-communications-consultant-medicare-commercial-health-plans/
-- SQLite window functions: https://www.sqlite.org/windowfunctions.html
-- Microsoft Power BI star schema: https://learn.microsoft.com/en-us/power-bi/guidance/star-schema
-
-No GitHub repository has been created or changed by this local starter build. No report has been published.
