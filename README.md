@@ -1,117 +1,137 @@
 # Healthcare Sales Operations: Referral Performance & Workflow Improvement
 
-**Independent case study | Synthetic portfolio data | SQL + Power BI + operational playbook**
+A synthetic healthcare operations portfolio project that turns referral, follow-up, activity, ownership, and target records into a reporting model for sales and intake operations.
 
-Project owner: Lisa A. Phillips  
-Version: 1.0 — local Power BI Desktop report completed; formal UAT and Power BI Service publishing remain out of scope  
-Scenario organization: **Juniper Ridge Outpatient Care**, a fictional portfolio organization  
-Snapshot: **August 31, 2026** | Source receipts: January 1, 2025–August 31, 2026
+Built with **Power BI Desktop, Power Query, DAX, SQL, SQLite, Python, and Excel/CSV** to demonstrate an end-to-end workflow from source-data preparation through operational reporting and follow-up prioritization.
 
-## What this case study demonstrates
+> **Portfolio disclaimer:** This project uses synthetic data and a fictional outpatient-care organization. It was created independently for educational and portfolio purposes, does not contain protected health information, and does not represent any healthcare organization.
 
-This case study demonstrates the ability to:
+## Project Overview
 
-- Build a structured reporting model from fragmented operational intake records.
-- Clean, normalize, and classify referral statuses, payer groups, service lines, ownership fields, and scheduling outcomes.
-- Frame business questions and KPIs around referral volume, follow-up workload, territory performance, and outreach activity.
-- Build a three-page Power BI Desktop report for referral performance, follow-up management, and activity performance.
-- Document the data model, SQL transformations, validation evidence, workflow recommendations, and report previews in a recruiter-ready repository.
+Sales and intake teams need a shared view of referral progression, follow-up workload, partner-account activity, and performance against targets. This project brings those records into a validated reporting model that supports both leadership monitoring and day-to-day operational review.
 
-## Included deliverables
+The completed synthetic dataset contains:
 
-- A complete GitHub repository with source data, SQL, scripts, validation evidence, project documentation, and report previews.
-- A case-study narrative in the README and supporting documentation.
-- A local Power BI Desktop `.pbix` report with three completed report pages. The file remains local because it is too large for a standard Git repository.
-- GitHub-friendly report screenshots in `docs/screenshots/`.
-- A PowerPoint leadership briefing and an existing project brief PDF.
+- **6,000 unique referrals** from 6,300 raw source rows
+- **5,480 follow-up tasks**
+- **3,600 sales activities** across 120 partner accounts
+- **6 territories**, 8 intake sites, 12 sales representatives, and 8 intake owners
+- Referral activity from **January 2025 through August 2026**
 
-This project uses synthetic data. It does not claim production deployment, published Power BI Service access, formal user acceptance testing, clinical outcomes, or financial impact.
+## Business Questions Addressed
 
-## The business problem
+This project addresses three operational question areas:
 
-Where are referrals delayed or failing to progress, which partner accounts need attention, and what should sales and intake operations change?
+- **Referral performance:** Are referral volumes meeting monthly and territory-level targets? What is the current pipeline mix by status, and how many referrals are completed?
+- **Follow-up management:** How many follow-ups are open, completed, or overdue? Where is follow-up workload concentrated by territory, and how is it changing month to month?
+- **Activity performance:** How much outreach is occurring, how broadly are accounts being engaged, what outcomes result from activities, and which territories have the highest activity volume?
 
-This project separates referral volume, 30-day cohort scheduling, and the current intake work queue. The process ends at the first completed appointment or an administrative closure. It does not represent an employer, actual patient records, clinical treatment decisions, or industry performance benchmarks.
+Together, the report helps leadership identify performance gaps, monitor operational follow-through, and focus attention on territories or workflow stages needing intervention.
 
-## Start here
+## Dashboard Preview
 
-Read `START_HERE.md`, then `docs/Project_Brief.pdf`. The reporting inputs are already available in `data/processed`, and the working SQLite database is in `database`. No server setup is required to inspect the supplied SQLite file.
-
-## Demonstrated technical result — not a real-world outcome
-
-The synthetic export has **6,300 rows but 6,000 unique referrals**. Counting rows would overstate referrals by **5.0% relative to the unique-referral baseline**. The SQL preserves every raw row, selects one source version per referral, and flags the repeated IDs. The 300 excess rows are 4.76% of raw rows; that is a different denominator.
-
-The pipeline also identifies **78 referrals with unusable timing data**, preserving them for review rather than silently dropping them. The valid mature scheduling cohort contains **5,602 referrals**, of which **4,024 (71.8%)** were booked within 30 calendar days. These are computed characteristics of deliberately constructed data, not discoveries about a real healthcare organization.
-
-**40 automated SQL/data checks passed** in the supplied build. The Power BI Desktop report has been built and visually reviewed locally. It has not been published to the Power BI Service, and formal user acceptance testing remains outside this portfolio case study. See `tests/build_log.json`, `tests/validation_results.csv`, and `tests/sql_baseline.csv`.
-
-## Scope and planned report
-
-| Page | Decision |
-|---|---|
-| Referral Performance | Track referral volume, completion status, monthly targets, and territory performance. |
-| Follow-Up Management | Monitor open and overdue follow-ups, monthly workload, and territory concentration. |
-| Activity Performance | Review outreach volume, account engagement, recorded outcomes, and territory coverage. |
-
-The organization contains 120 synthetic partner accounts, 6 territories, 8 sites, 12 sales representatives, and 8 intake owners. Unknown-owner dimension members are retained separately.
-
-## Repository contents
-
-| Location | Purpose |
-|---|---|
-| `docs/` | Brief, requirements, KPI/data dictionary, workflow playbook, draft leadership memo |
-| `docs/screenshots/` | Final Power BI report previews for GitHub review |
-| `data/raw/` | Original synthetic source exports, including intentional defects |
-| `sql/` | Raw schema, source profiling, transformations, business-analysis queries |
-| `scripts/` | Deterministic data generator, SQL runner, independent validation |
-| `database/` | Ready-to-open SQLite database with raw and reporting layers |
-| `data/processed/` | Twelve SQL-prepared Power BI import tables |
-| `powerbi/` | Model relationships, page specifications, and starter DAX |
-| `tests/` | Injection manifest, automated evidence, SQL baseline, manual UAT checklist |
-
-## Power BI report previews
-
-The Power BI Desktop `.pbix` file stays local because it is too large for a standard Git repository. These previews show the completed report pages.
-
-### Referral Performance
+### 1. Referral Performance
 
 ![Referral Performance](docs/screenshots/referral-performance.png)
 
-### Follow-Up Management
+Tracks referral volume, completion status, monthly targets, pipeline status, and territory performance.
+
+### 2. Follow-Up Management
 
 ![Follow-Up Management](docs/screenshots/follow-up-management.png)
 
-### Activity Performance
+Monitors created, completed, open, and overdue follow-ups, with workload views by month and territory.
+
+### 3. Activity Performance
 
 ![Activity Performance](docs/screenshots/activity-performance.png)
 
-## Reproduce the working build
+Reviews outreach volume, account engagement, recorded activity outcomes, and territory coverage.
 
-Requires Python 3.10+ with standard-library SQLite 3.25+; no pip packages required for the data pipeline. From the extracted project directory:
+## Key Performance Indicators
 
-```bash
+| KPI | Portfolio Result |
+|---|---:|
+| Total referrals | 6,000 |
+| Completed referrals | 4,292 |
+| Referral target | 6,504 |
+| Target attainment | 92.3% |
+| Total follow-ups | 5,480 |
+| Completed follow-ups | 4,910 |
+| Open follow-ups | 570 |
+| Overdue follow-ups | 458 |
+| Total activities | 3,600 |
+| Accounts engaged | 120 |
+
+## Data and Reporting Design
+
+- The source export contains **6,300 rows and 6,000 unique referrals**. The SQL keeps the raw records, applies a documented survivor rule, and reports one canonical referral per referral ID.
+- **78 referrals** have unusable timing data and remain available for review instead of being silently excluded from the model.
+- The 30-day scheduling cohort contains **5,602 mature referrals**, with **4,024 booked within 30 calendar days (71.8%)**.
+- The model keeps sales-account ownership and intake-case ownership separate, and it records data-quality, ownership, status, and follow-up exceptions for review.
+- **40 automated SQL/data checks passed** in the reproducible build.
+
+## Analytical Workflow
+
+1. Created synthetic referral, follow-up, activity, ownership, and target files with documented test conditions.
+2. Loaded the source files into SQLite and profiled repeated IDs, missing values, and unmapped statuses.
+3. Built canonical referral, dimension, fact, snapshot, and exception tables with SQL.
+4. Exported reporting-ready tables for Power BI and created a calendar table, model relationships, and DAX measures.
+5. Designed three Power BI Desktop pages for referral, follow-up, and activity performance.
+6. Validated database structure, keys, date logic, data-quality flags, and KPI reconciliation with automated checks.
+
+## Dashboard Features
+
+- Referral volume and target-attainment monitoring
+- Pipeline status and territory performance views
+- Open and overdue follow-up workload analysis
+- Monthly follow-up creation trend
+- Outreach volume, account engagement, and activity-outcome analysis
+- Data-quality and operational-exception tracking
+
+## Tools and Skills Demonstrated
+
+- **Power BI Desktop:** Data modeling, report design, KPI cards, charts, and filtering
+- **Power Query and DAX:** Type handling, measures, calendar logic, and report-context calculations
+- **SQL and SQLite:** Source profiling, transformations, reporting tables, and validation queries
+- **Python:** Synthetic-data generation, database build automation, exports, and independent tests
+- **Healthcare operations analytics:** Referral workflow, follow-up management, account ownership, and performance monitoring
+
+## Repository Contents
+
+| Location | Purpose |
+|---|---|
+| `docs/` | Project brief, KPI/data documentation, workflow playbook, and leadership materials |
+| `docs/screenshots/` | Final Power BI report previews |
+| `data/raw/` | Synthetic source exports, including intentional data-quality conditions |
+| `data/processed/` | Reporting-ready Power BI import tables |
+| `database/` | Ready-to-open SQLite database with raw and reporting layers |
+| `sql/` | Schema, source profiling, reporting transformations, and analysis queries |
+| `scripts/` | Synthetic-data generator, build runner, and validation logic |
+| `powerbi/` | Model relationships, page specifications, and DAX reference |
+| `tests/` | Validation evidence, SQL baseline, and manual testing checklist |
+
+## How to View the Project
+
+- Review the dashboard previews above for a quick view of the completed report.
+- Open the SQLite database in DB Browser for SQLite to inspect the raw and reporting tables.
+- The Power BI Desktop `.pbix` report remains local because it is too large for a standard Git repository.
+- To rebuild the database and reporting exports from the included source files, install Python 3.10+ and run:
+
+```powershell
 python scripts/build_project.py
 ```
 
-On Windows, `py` may be the command for the Python launcher:
+The build does not replace the raw source files. The optional `--regenerate` argument replaces only the project's synthetic source data and should not be used with real healthcare data.
 
-```powershell
-py scripts/build_project.py
-```
+## Project Notes
 
-This reads existing raw CSVs and rebuilds the generated database, reporting exports, and SQL test evidence. It does not overwrite the raw data. To intentionally replace the raw synthetic data with the fixed-seed generator output:
+All organizations, accounts, referral records, and operational activity in this repository are synthetic. The report is a completed local Power BI Desktop case study; it has not been published to the Power BI Service and does not represent production deployment, formal user acceptance testing, clinical outcomes, or financial impact.
 
-```bash
-python scripts/build_project.py --regenerate
-```
+## Author
 
-The optional `--regenerate` flag overwrites only this project's synthetic raw CSVs and generation manifest. Do not point the scripts at real healthcare data. The schema file is generated from the source headers. On a fresh database, `00_schema.sql` defines raw tables; the runner handles CSV loading before executing `02_build_reporting.sql`. Do not execute the CREATE TABLE transformation script against an already-built database without rebuilding it first.
+**Lisa A. Phillips, MBA**
+Healthcare Analytics | Business Intelligence | Commercial Operations
 
-## Measurement and ethics
-
-All time calculations use date-only **calendar days**, not business hours. The 2-day follow-up and 7-day stalled-stage rules are project assumptions, not regulatory deadlines. The 30-day metric measures **booking within 30 days of receipt**, not attendance within 30 days. Mature canceled/closed referrals remain in its denominator; referrals without valid timing data are excluded with an explicit count.
-
-Sales-account ownership and intake-case ownership are different fields. Missing owners are not inferred. A single referral can have several data-quality exceptions. Event history determines report stage provisionally; status disagreements are still reviewed. One referral has at most one first booking and one first completed visit in this simplified version; rescheduling and repeated treatment visits are out of scope.
-
-Do not claim that the proposed workflow increased appointments, improved clinical outcomes, or saved employer money. Those claims would require a real implementation and a suitable evaluation. AI assisted the starter data, code, and documentation; the project owner should review, adapt, reproduce, and explain the work before presenting it as a completed portfolio case study.
+[LinkedIn](https://www.linkedin.com/in/lisaphillips106) · [GitHub](https://github.com/beachblondie106-coder)
 
