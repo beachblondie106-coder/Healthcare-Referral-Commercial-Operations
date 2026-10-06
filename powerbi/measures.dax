@@ -1,0 +1,103 @@
+// STARTER MEASURES. Create each measure separately in Power BI Desktop.
+// SQL flags have been tested; these DAX measures have NOT been executed in Power BI.
+// Requires the exact table names and relationships in BUILD_GUIDE.md.
+
+Unique Referrals = COUNTROWS(fact_referrals)
+
+Dated Referrals =
+CALCULATE([Unique Referrals], fact_referrals[valid_received_date_flag] = 1)
+
+Mature 30-Day Referrals = SUM(fact_referrals[mature_30_flag])
+
+Scheduled Within 30 Days = SUM(fact_referrals[scheduled_30_flag])
+
+Scheduled Within 30 Days % =
+DIVIDE([Scheduled Within 30 Days], [Mature 30-Day Referrals])
+
+Not Yet Mature = SUM(fact_referrals[not_yet_mature_flag])
+
+Timing Exclusions =
+CALCULATE([Unique Referrals], fact_referrals[timing_valid_flag] = 0)
+
+Median Days to Booking =
+CALCULATE(
+    MEDIAN(fact_referrals[days_to_schedule]),
+    fact_referrals[timing_valid_flag] = 1,
+    fact_referrals[scheduled_observed_flag] = 1
+)
+
+// Count only the first completed visit associated with a referral.
+// Completion date is an INACTIVE relationship; receipt date is ACTIVE by default.
+First Visits Completed =
+CALCULATE(
+    [Unique Referrals],
+    fact_referrals[timing_valid_flag] = 1,
+    NOT ISBLANK(fact_referrals[first_completed_date]),
+    USERELATIONSHIP(dim_date[date], fact_referrals[first_completed_date])
+)
+
+// Snapshot measures intentionally ignore the receipt-date dimension.
+Open Referrals Snapshot =
+CALCULATE(SUM(fact_referrals[open_referral_flag]), REMOVEFILTERS(dim_date))
+
+Scheduling Queue Snapshot =
+CALCULATE(SUM(fact_referrals[scheduling_queue_flag]), REMOVEFILTERS(dim_date))
+
+Overdue Follow-up Snapshot =
+CALCULATE(SUM(fact_referrals[overdue_followup_flag]), REMOVEFILTERS(dim_date))
+
+Stalled Stage Snapshot =
+CALCULATE(SUM(fact_referrals[stalled_stage_flag]), REMOVEFILTERS(dim_date))
+
+Unassigned Open Referrals Snapshot =
+CALCULATE(SUM(fact_referrals[unassigned_open_flag]), REMOVEFILTERS(dim_date))
+
+Missing Follow-up Task Snapshot =
+CALCULATE(SUM(fact_referrals[missing_followup_task_flag]), REMOVEFILTERS(dim_date))
+
+Exception Issues = COUNTROWS(fact_exceptions)
+
+Unresolved Referral Records =
+CALCULATE(
+    DISTINCTCOUNT(fact_exceptions[entity_id]),
+    fact_exceptions[entity_type] = "Referral",
+    fact_exceptions[resolution_status] = "Awaiting review"
+)
+
+Unresolved Account Records =
+CALCULATE(
+    DISTINCTCOUNT(fact_exceptions[entity_id]),
+    fact_exceptions[entity_type] = "Account",
+    fact_exceptions[resolution_status] = "Awaiting review"
+)
+
+Recent 30-Day Partner Referrals = SUM(fact_account_snapshot[referrals_recent_30])
+
+Prior 30-Day Partner Referrals = SUM(fact_account_snapshot[referrals_prior_30])
+
+Partner Referral Change % =
+DIVIDE(
+    [Recent 30-Day Partner Referrals] - [Prior 30-Day Partner Referrals],
+    [Prior 30-Day Partner Referrals]
+)
+
+// Targets exist ONLY by month and territory. There is no account/site/payer allocation.
+// Use month/year/territory slicers only for a target comparison.
+// This guard hides the target rather than showing a misleading company-wide denominator.
+Referral Target =
+IF(
+    ISFILTERED(dim_account)
+        || ISFILTERED(dim_site)
+        || ISFILTERED(dim_sales_rep)
+        || ISFILTERED(dim_intake_owner)
+        || ISFILTERED(dim_date[date])
+        || ISFILTERED(fact_referrals[payer_group])
+        || ISFILTERED(fact_referrals[service_line])
+        || ISFILTERED(fact_referrals[current_stage]),
+    BLANK(),
+    SUM(fact_targets[referral_target])
+)
+
+Referral Target Attainment % = DIVIDE([Dated Referrals], [Referral Target])
+
+Snapshot Date = MAX(project_config[as_of_date])

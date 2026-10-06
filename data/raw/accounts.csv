@@ -1,0 +1,121 @@
+﻿account_id,account_name,territory_id,sales_rep_id,specialty,account_tier
+ACC001,Synthetic Provider Account 001,T01,REP02,Rheumatology,A
+ACC002,Synthetic Provider Account 002,T01,REP01,Primary care,B
+ACC003,Synthetic Provider Account 003,T01,REP02,Primary care,C
+ACC004,Synthetic Provider Account 004,T01,REP01,Rheumatology,A
+ACC005,Synthetic Provider Account 005,T01,REP02,Rheumatology,C
+ACC006,Synthetic Provider Account 006,T01,REP01,Primary care,A
+ACC007,Synthetic Provider Account 007,T01,,Dermatology,B
+ACC008,Synthetic Provider Account 008,T01,REP01,Primary care,A
+ACC009,Synthetic Provider Account 009,T01,REP02,Dermatology,C
+ACC010,Synthetic Provider Account 010,T01,REP01,Primary care,A
+ACC011,Synthetic Provider Account 011,T01,REP02,Primary care,A
+ACC012,Synthetic Provider Account 012,T01,REP01,Dermatology,A
+ACC013,Synthetic Provider Account 013,T01,REP02,Primary care,B
+ACC014,Synthetic Provider Account 014,T01,REP01,Primary care,B
+ACC015,Synthetic Provider Account 015,T01,REP02,Gastroenterology,A
+ACC016,Synthetic Provider Account 016,T01,REP01,Rheumatology,A
+ACC017,Synthetic Provider Account 017,T01,REP02,Gastroenterology,C
+ACC018,Synthetic Provider Account 018,T01,REP01,Primary care,A
+ACC019,Synthetic Provider Account 019,T01,REP02,Dermatology,B
+ACC020,Synthetic Provider Account 020,T01,REP01,Neurology,C
+ACC021,Synthetic Provider Account 021,T02,REP04,Rheumatology,B
+ACC022,Synthetic Provider Account 022,T02,REP03,Dermatology,C
+ACC023,Synthetic Provider Account 023,T02,REP04,Primary care,C
+ACC024,Synthetic Provider Account 024,T02,REP03,Primary care,B
+ACC025,Synthetic Provider Account 025,T02,REP04,Primary care,A
+ACC026,Synthetic Provider Account 026,T02,REP03,Neurology,A
+ACC027,Synthetic Provider Account 027,T02,REP04,Primary care,C
+ACC028,Synthetic Provider Account 028,T02,,Gastroenterology,A
+ACC029,Synthetic Provider Account 029,T02,REP04,Rheumatology,B
+ACC030,Synthetic Provider Account 030,T02,REP03,Neurology,C
+ACC031,Synthetic Provider Account 031,T02,REP04,Gastroenterology,A
+ACC032,Synthetic Provider Account 032,T02,REP03,Primary care,B
+ACC033,Synthetic Provider Account 033,T02,REP04,Dermatology,B
+ACC034,Synthetic Provider Account 034,T02,REP03,Gastroenterology,B
+ACC035,Synthetic Provider Account 035,T02,REP04,Primary care,B
+ACC036,Synthetic Provider Account 036,T02,REP03,Gastroenterology,B
+ACC037,Synthetic Provider Account 037,T02,REP04,Dermatology,B
+ACC038,Synthetic Provider Account 038,T02,REP03,Primary care,B
+ACC039,Synthetic Provider Account 039,T02,REP04,Primary care,B
+ACC040,Synthetic Provider Account 040,T02,REP03,Primary care,B
+ACC041,Synthetic Provider Account 041,T03,REP06,Neurology,C
+ACC042,Synthetic Provider Account 042,T03,REP05,Rheumatology,A
+ACC043,Synthetic Provider Account 043,T03,REP06,Dermatology,C
+ACC044,Synthetic Provider Account 044,T03,REP05,Gastroenterology,B
+ACC045,Synthetic Provider Account 045,T03,REP06,Primary care,B
+ACC046,Synthetic Provider Account 046,T03,,Dermatology,C
+ACC047,Synthetic Provider Account 047,T03,REP06,Rheumatology,A
+ACC048,Synthetic Provider Account 048,T03,REP05,Neurology,B
+ACC049,Synthetic Provider Account 049,T03,REP06,Neurology,B
+ACC050,Synthetic Provider Account 050,T03,REP05,Primary care,B
+ACC051,Synthetic Provider Account 051,T03,REP06,Primary care,B
+ACC052,Synthetic Provider Account 052,T03,REP05,Gastroenterology,C
+ACC053,Synthetic Provider Account 053,T03,REP06,Rheumatology,B
+ACC054,Synthetic Provider Account 054,T03,REP05,Neurology,A
+ACC055,Synthetic Provider Account 055,T03,REP06,Neurology,C
+ACC056,Synthetic Provider Account 056,T03,REP05,Primary care,B
+ACC057,Synthetic Provider Account 057,T03,REP06,Dermatology,A
+ACC058,Synthetic Provider Account 058,T03,REP05,Neurology,C
+ACC059,Synthetic Provider Account 059,T03,REP06,Gastroenterology,A
+ACC060,Synthetic Provider Account 060,T03,REP05,Neurology,B
+ACC061,Synthetic Provider Account 061,T04,REP08,Rheumatology,B
+ACC062,Synthetic Provider Account 062,T04,REP07,Dermatology,A
+ACC063,Synthetic Provider Account 063,T04,REP08,Dermatology,B
+ACC064,Synthetic Provider Account 064,T04,REP07,Dermatology,C
+ACC065,Synthetic Provider Account 065,T04,REP08,Neurology,A
+ACC066,Synthetic Provider Account 066,T04,REP07,Primary care,C
+ACC067,Synthetic Provider Account 067,T04,REP08,Primary care,C
+ACC068,Synthetic Provider Account 068,T04,REP07,Gastroenterology,C
+ACC069,Synthetic Provider Account 069,T04,,Primary care,C
+ACC070,Synthetic Provider Account 070,T04,REP07,Gastroenterology,B
+ACC071,Synthetic Provider Account 071,T04,REP08,Neurology,C
+ACC072,Synthetic Provider Account 072,T04,REP07,Dermatology,A
+ACC073,Synthetic Provider Account 073,T04,REP08,Primary care,A
+ACC074,Synthetic Provider Account 074,T04,REP07,Rheumatology,A
+ACC075,Synthetic Provider Account 075,T04,REP08,Primary care,B
+ACC076,Synthetic Provider Account 076,T04,REP07,Gastroenterology,B
+ACC077,Synthetic Provider Account 077,T04,REP08,Neurology,B
+ACC078,Synthetic Provider Account 078,T04,REP07,Dermatology,B
+ACC079,Synthetic Provider Account 079,T04,REP08,Dermatology,A
+ACC080,Synthetic Provider Account 080,T04,REP07,Primary care,B
+ACC081,Synthetic Provider Account 081,T05,REP10,Neurology,B
+ACC082,Synthetic Provider Account 082,T05,REP09,Gastroenterology,C
+ACC083,Synthetic Provider Account 083,T05,REP10,Primary care,B
+ACC084,Synthetic Provider Account 084,T05,,Rheumatology,A
+ACC085,Synthetic Provider Account 085,T05,REP10,Neurology,A
+ACC086,Synthetic Provider Account 086,T05,REP09,Neurology,B
+ACC087,Synthetic Provider Account 087,T05,REP10,Dermatology,A
+ACC088,Synthetic Provider Account 088,T05,REP09,Neurology,C
+ACC089,Synthetic Provider Account 089,T05,REP10,Primary care,B
+ACC090,Synthetic Provider Account 090,T05,REP09,Dermatology,C
+ACC091,Synthetic Provider Account 091,T05,REP10,Dermatology,C
+ACC092,Synthetic Provider Account 092,T05,REP09,Neurology,C
+ACC093,Synthetic Provider Account 093,T05,REP10,Rheumatology,B
+ACC094,Synthetic Provider Account 094,T05,REP09,Primary care,B
+ACC095,Synthetic Provider Account 095,T05,REP10,Gastroenterology,B
+ACC096,Synthetic Provider Account 096,T05,REP09,Primary care,B
+ACC097,Synthetic Provider Account 097,T05,REP10,Gastroenterology,B
+ACC098,Synthetic Provider Account 098,T05,REP09,Gastroenterology,B
+ACC099,Synthetic Provider Account 099,T05,REP10,Rheumatology,A
+ACC100,Synthetic Provider Account 100,T05,REP09,Rheumatology,C
+ACC101,Synthetic Provider Account 101,T06,REP12,Neurology,C
+ACC102,Synthetic Provider Account 102,T06,REP11,Dermatology,B
+ACC103,Synthetic Provider Account 103,T06,REP12,Primary care,B
+ACC104,Synthetic Provider Account 104,T06,REP11,Neurology,B
+ACC105,Synthetic Provider Account 105,T06,REP12,Primary care,C
+ACC106,Synthetic Provider Account 106,T06,REP11,Rheumatology,C
+ACC107,Synthetic Provider Account 107,T06,REP12,Rheumatology,A
+ACC108,Synthetic Provider Account 108,T06,REP11,Neurology,C
+ACC109,Synthetic Provider Account 109,T06,REP12,Gastroenterology,C
+ACC110,Synthetic Provider Account 110,T06,REP11,Gastroenterology,A
+ACC111,Synthetic Provider Account 111,T06,REP12,Dermatology,B
+ACC112,Synthetic Provider Account 112,T06,REP11,Neurology,C
+ACC113,Synthetic Provider Account 113,T06,,Dermatology,C
+ACC114,Synthetic Provider Account 114,T06,REP11,Gastroenterology,B
+ACC115,Synthetic Provider Account 115,T06,REP12,Neurology,B
+ACC116,Synthetic Provider Account 116,T06,REP11,Dermatology,A
+ACC117,Synthetic Provider Account 117,T06,REP12,Gastroenterology,B
+ACC118,Synthetic Provider Account 118,T06,REP11,Gastroenterology,B
+ACC119,Synthetic Provider Account 119,T06,REP12,Gastroenterology,A
+ACC120,Synthetic Provider Account 120,T06,REP11,Dermatology,A

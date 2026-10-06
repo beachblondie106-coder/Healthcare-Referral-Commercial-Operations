@@ -1,0 +1,14 @@
+﻿sales_rep_id,sales_rep_name,territory_id
+REP01,Synthetic Sales Rep 01,T01
+REP02,Synthetic Sales Rep 02,T01
+REP03,Synthetic Sales Rep 03,T02
+REP04,Synthetic Sales Rep 04,T02
+REP05,Synthetic Sales Rep 05,T03
+REP06,Synthetic Sales Rep 06,T03
+REP07,Synthetic Sales Rep 07,T04
+REP08,Synthetic Sales Rep 08,T04
+REP09,Synthetic Sales Rep 09,T05
+REP10,Synthetic Sales Rep 10,T05
+REP11,Synthetic Sales Rep 11,T06
+REP12,Synthetic Sales Rep 12,T06
+REP_UNASSIGNED,Unassigned sales account owner,

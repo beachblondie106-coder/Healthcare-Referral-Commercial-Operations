@@ -1,0 +1,18 @@
+﻿status_key,standard_status
+new,Received
+received,Received
+in review,In Review
+in_review,In Review
+review,In Review
+ready,Ready to Schedule
+ready to schedule,Ready to Schedule
+ready_to_schedule,Ready to Schedule
+booked,Scheduled
+sched,Scheduled
+scheduled,Scheduled
+complete,Completed
+completed,Completed
+visit complete,Completed
+cancelled,Closed
+closed,Closed
+closed - no visit,Closed

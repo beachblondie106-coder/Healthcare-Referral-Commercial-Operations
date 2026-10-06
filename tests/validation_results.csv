@@ -1,0 +1,41 @@
+﻿test_id,test_name,expected,actual,status,test_layer
+T01,Raw row count,6300,6300,PASS,SQL/data automation
+T02,Canonical referral count,6000,6000,PASS,SQL/data automation
+T03,One fact row per referral,0,0,PASS,SQL/data automation
+T04,Repeated-ID set matches injected IDs,True,True,PASS,SQL/data automation
+T05,Excess source rows removed from counting,300,300,PASS,SQL/data automation
+T06,Latest source version and deterministic tie-breaker,0,0,PASS,SQL/data automation
+T07,Missing receipt dates retained and flagged,True,True,PASS,SQL/data automation
+T08,Backdated event IDs identified,True,True,PASS,SQL/data automation
+T09,Missing event dates identified,True,True,PASS,SQL/data automation
+T10,Timing exclusions count,78,78,PASS,SQL/data automation
+T11,Unmapped statuses not silently coerced,True,True,PASS,SQL/data automation
+T12,Status disagreements retained for review,True,True,PASS,SQL/data automation
+T13,Missing intake owners not filled with sales reps,True,True,PASS,SQL/data automation
+T14,Open missing owners all enter ownership queue,0,0,PASS,SQL/data automation
+T15,Cohort maturity partitions all referrals,6000,6000,PASS,SQL/data automation
+T16,Every numerator record is in denominator,0,0,PASS,SQL/data automation
+T17,Independent Python cohort reconciliation,0,0,PASS,SQL/data automation
+T18,Referral fact dimension keys all resolve,0,0,PASS,SQL/data automation
+T19,Valid elapsed intervals are nonnegative,0,0,PASS,SQL/data automation
+T20,Overdue tasks exclude due-today and terminal/scheduled records,0,0,PASS,SQL/data automation
+T21,Activities preserved without referral multiplication,3600,3600,PASS,SQL/data automation
+T22,Targets have unique month-territory grain,0,0,PASS,SQL/data automation
+T23,Target row count,120,120,PASS,SQL/data automation
+T24,Exception keys are unique,0,0,PASS,SQL/data automation
+T25,Account snapshot includes zero-activity accounts,120,120,PASS,SQL/data automation
+T26,No source event beyond observation cutoff,0,0,PASS,SQL/data automation
+T27,Closed cases retained in mature denominator,0,0,PASS,SQL/data automation
+T28,Receipt-date missing records still in fact,36,36,PASS,SQL/data automation
+T29,Boundary fixture: day0,"(1, 1)","(1, 1)",PASS,SQL/data automation
+T30,Boundary fixture: day30,"(1, 1)","(1, 1)",PASS,SQL/data automation
+T31,Boundary fixture: day31,"(1, 0)","(1, 0)",PASS,SQL/data automation
+T32,Boundary fixture: age30,"(1, 1)","(1, 1)",PASS,SQL/data automation
+T33,Boundary fixture: age29,"(0, 0)","(0, 0)",PASS,SQL/data automation
+T34,Boundary fixture: no_booking,"(1, 0)","(1, 0)",PASS,SQL/data automation
+T35,Boundary fixture: invalid_receipt,"(0, 0)","(0, 0)",PASS,SQL/data automation
+T36,Boundary fixture: backdated,"(0, 0)","(0, 0)",PASS,SQL/data automation
+T37,Due date equals snapshot date is not overdue,0,0,PASS,SQL/data automation
+T38,All unknown-owner surrogate values are retained,150,150,PASS,SQL/data automation
+T39,Calendar is contiguous and covers full years,730,730,PASS,SQL/data automation
+T40,Database structural integrity,ok,ok,PASS,SQL/data automation

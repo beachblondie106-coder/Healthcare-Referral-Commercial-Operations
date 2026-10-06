@@ -1,0 +1,10 @@
+﻿intake_owner_id,intake_owner_name,site_id
+INT01,Synthetic Intake Owner 01,S01
+INT02,Synthetic Intake Owner 02,S02
+INT03,Synthetic Intake Owner 03,S03
+INT04,Synthetic Intake Owner 04,S04
+INT05,Synthetic Intake Owner 05,S05
+INT06,Synthetic Intake Owner 06,S06
+INT07,Synthetic Intake Owner 07,S07
+INT08,Synthetic Intake Owner 08,S08
+INT_UNASSIGNED,Unassigned intake owner,

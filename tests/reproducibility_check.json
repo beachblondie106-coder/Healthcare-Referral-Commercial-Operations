@@ -1,0 +1,6 @@
+{
+  "result": "PASS",
+  "raw_and_reporting_csv_files_compared": 24,
+  "identical_after_fixed_seed_regeneration": true,
+  "scope": "Same generator, Python runtime and SQL implementation; does not test other software versions."
+}

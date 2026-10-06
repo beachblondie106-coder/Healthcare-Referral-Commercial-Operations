@@ -1,0 +1,785 @@
+﻿exception_id,entity_id,entity_type,account_id,territory_id,intake_owner_id,rule_id,issue,resolution_status,review_team,required_action,as_of_date
+DQ01:REF000022,REF000022,Referral,ACC006,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000063,REF000063,Referral,ACC065,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000064,REF000064,Referral,ACC102,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000075,REF000075,Referral,ACC110,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000096,REF000096,Referral,ACC016,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000144,REF000144,Referral,ACC099,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000186,REF000186,Referral,ACC084,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000193,REF000193,Referral,ACC092,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000198,REF000198,Referral,ACC019,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000201,REF000201,Referral,ACC085,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000206,REF000206,Referral,ACC117,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000215,REF000215,Referral,ACC105,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000216,REF000216,Referral,ACC107,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000235,REF000235,Referral,ACC056,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000271,REF000271,Referral,ACC070,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000308,REF000308,Referral,ACC097,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000328,REF000328,Referral,ACC107,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000330,REF000330,Referral,ACC110,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000332,REF000332,Referral,ACC049,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000345,REF000345,Referral,ACC025,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000358,REF000358,Referral,ACC042,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000362,REF000362,Referral,ACC057,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000369,REF000369,Referral,ACC078,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000377,REF000377,Referral,ACC031,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000412,REF000412,Referral,ACC071,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000439,REF000439,Referral,ACC101,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000475,REF000475,Referral,ACC038,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000479,REF000479,Referral,ACC070,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000480,REF000480,Referral,ACC037,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000486,REF000486,Referral,ACC001,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000507,REF000507,Referral,ACC021,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000524,REF000524,Referral,ACC120,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000557,REF000557,Referral,ACC102,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000600,REF000600,Referral,ACC050,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000639,REF000639,Referral,ACC048,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000647,REF000647,Referral,ACC016,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000678,REF000678,Referral,ACC024,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000684,REF000684,Referral,ACC085,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000713,REF000713,Referral,ACC102,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000725,REF000725,Referral,ACC119,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000729,REF000729,Referral,ACC078,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000737,REF000737,Referral,ACC118,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000744,REF000744,Referral,ACC074,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000750,REF000750,Referral,ACC054,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000753,REF000753,Referral,ACC065,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000789,REF000789,Referral,ACC114,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000832,REF000832,Referral,ACC038,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000841,REF000841,Referral,ACC042,T03,INT_UNASSIGNED,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000877,REF000877,Referral,ACC080,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000885,REF000885,Referral,ACC111,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000890,REF000890,Referral,ACC029,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000944,REF000944,Referral,ACC095,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000964,REF000964,Referral,ACC015,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000965,REF000965,Referral,ACC120,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000971,REF000971,Referral,ACC025,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000977,REF000977,Referral,ACC103,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF000982,REF000982,Referral,ACC047,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001066,REF001066,Referral,ACC074,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001105,REF001105,Referral,ACC019,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001110,REF001110,Referral,ACC087,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001124,REF001124,Referral,ACC048,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001152,REF001152,Referral,ACC102,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001168,REF001168,Referral,ACC065,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001173,REF001173,Referral,ACC093,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001180,REF001180,Referral,ACC016,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001227,REF001227,Referral,ACC031,T02,INT_UNASSIGNED,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001245,REF001245,Referral,ACC119,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001280,REF001280,Referral,ACC013,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001295,REF001295,Referral,ACC104,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001297,REF001297,Referral,ACC108,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001300,REF001300,Referral,ACC033,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001308,REF001308,Referral,ACC006,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001313,REF001313,Referral,ACC042,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001322,REF001322,Referral,ACC040,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001329,REF001329,Referral,ACC096,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001421,REF001421,Referral,ACC011,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001455,REF001455,Referral,ACC103,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001456,REF001456,Referral,ACC089,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001510,REF001510,Referral,ACC057,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001512,REF001512,Referral,ACC076,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001545,REF001545,Referral,ACC019,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001571,REF001571,Referral,ACC065,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001596,REF001596,Referral,ACC012,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001658,REF001658,Referral,ACC072,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001700,REF001700,Referral,ACC015,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001715,REF001715,Referral,ACC035,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001753,REF001753,Referral,ACC007,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001754,REF001754,Referral,ACC080,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001757,REF001757,Referral,ACC065,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001785,REF001785,Referral,ACC010,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001799,REF001799,Referral,ACC072,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001809,REF001809,Referral,ACC073,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001820,REF001820,Referral,ACC008,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001868,REF001868,Referral,ACC110,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001886,REF001886,Referral,ACC046,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001903,REF001903,Referral,ACC062,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001945,REF001945,Referral,ACC025,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001959,REF001959,Referral,ACC084,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF001985,REF001985,Referral,ACC086,T05,INT_UNASSIGNED,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002000,REF002000,Referral,ACC051,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002013,REF002013,Referral,ACC008,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002021,REF002021,Referral,ACC070,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002055,REF002055,Referral,ACC015,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002090,REF002090,Referral,ACC006,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002118,REF002118,Referral,ACC112,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002163,REF002163,Referral,ACC060,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002187,REF002187,Referral,ACC068,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002222,REF002222,Referral,ACC041,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002252,REF002252,Referral,ACC027,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002263,REF002263,Referral,ACC034,T02,INT_UNASSIGNED,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002269,REF002269,Referral,ACC028,T02,INT_UNASSIGNED,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002285,REF002285,Referral,ACC012,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002300,REF002300,Referral,ACC095,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002326,REF002326,Referral,ACC065,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002338,REF002338,Referral,ACC010,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002377,REF002377,Referral,ACC059,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002386,REF002386,Referral,ACC003,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002390,REF002390,Referral,ACC101,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002416,REF002416,Referral,ACC045,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002437,REF002437,Referral,ACC083,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002441,REF002441,Referral,ACC050,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002448,REF002448,Referral,ACC001,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002465,REF002465,Referral,ACC025,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002485,REF002485,Referral,ACC075,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002499,REF002499,Referral,ACC007,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002504,REF002504,Referral,ACC011,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002505,REF002505,Referral,ACC110,T06,INT_UNASSIGNED,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002512,REF002512,Referral,ACC099,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002562,REF002562,Referral,ACC009,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002584,REF002584,Referral,ACC120,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002587,REF002587,Referral,ACC103,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002596,REF002596,Referral,ACC084,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002633,REF002633,Referral,ACC023,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002657,REF002657,Referral,ACC008,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002672,REF002672,Referral,ACC010,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002678,REF002678,Referral,ACC021,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002716,REF002716,Referral,ACC057,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002782,REF002782,Referral,ACC073,T04,INT_UNASSIGNED,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002786,REF002786,Referral,ACC016,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002819,REF002819,Referral,ACC054,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002832,REF002832,Referral,ACC104,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002865,REF002865,Referral,ACC065,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002868,REF002868,Referral,ACC050,T03,INT_UNASSIGNED,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002888,REF002888,Referral,ACC012,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002890,REF002890,Referral,ACC085,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002912,REF002912,Referral,ACC074,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002942,REF002942,Referral,ACC096,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF002987,REF002987,Referral,ACC032,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003020,REF003020,Referral,ACC032,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003053,REF003053,Referral,ACC107,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003065,REF003065,Referral,ACC035,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003087,REF003087,Referral,ACC032,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003090,REF003090,Referral,ACC065,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003193,REF003193,Referral,ACC046,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003207,REF003207,Referral,ACC036,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003245,REF003245,Referral,ACC057,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003268,REF003268,Referral,ACC087,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003272,REF003272,Referral,ACC085,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003273,REF003273,Referral,ACC102,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003282,REF003282,Referral,ACC078,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003302,REF003302,Referral,ACC009,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003321,REF003321,Referral,ACC075,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003334,REF003334,Referral,ACC080,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003370,REF003370,Referral,ACC016,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003423,REF003423,Referral,ACC021,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003435,REF003435,Referral,ACC050,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003438,REF003438,Referral,ACC072,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003454,REF003454,Referral,ACC111,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003457,REF003457,Referral,ACC063,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003469,REF003469,Referral,ACC028,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003492,REF003492,Referral,ACC079,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003496,REF003496,Referral,ACC062,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003498,REF003498,Referral,ACC076,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003506,REF003506,Referral,ACC067,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003526,REF003526,Referral,ACC064,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003528,REF003528,Referral,ACC016,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003529,REF003529,Referral,ACC083,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003541,REF003541,Referral,ACC118,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003545,REF003545,Referral,ACC089,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003615,REF003615,Referral,ACC042,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003616,REF003616,Referral,ACC051,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003623,REF003623,Referral,ACC025,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003642,REF003642,Referral,ACC008,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003646,REF003646,Referral,ACC082,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003659,REF003659,Referral,ACC012,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003675,REF003675,Referral,ACC065,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003680,REF003680,Referral,ACC115,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003681,REF003681,Referral,ACC031,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003701,REF003701,Referral,ACC015,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003702,REF003702,Referral,ACC014,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003735,REF003735,Referral,ACC044,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003757,REF003757,Referral,ACC008,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003766,REF003766,Referral,ACC031,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003776,REF003776,Referral,ACC107,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003800,REF003800,Referral,ACC089,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003806,REF003806,Referral,ACC090,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003845,REF003845,Referral,ACC022,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003862,REF003862,Referral,ACC035,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003864,REF003864,Referral,ACC015,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003866,REF003866,Referral,ACC013,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003874,REF003874,Referral,ACC036,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003914,REF003914,Referral,ACC008,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003960,REF003960,Referral,ACC112,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003968,REF003968,Referral,ACC053,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003979,REF003979,Referral,ACC077,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF003995,REF003995,Referral,ACC045,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004049,REF004049,Referral,ACC010,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004086,REF004086,Referral,ACC085,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004106,REF004106,Referral,ACC103,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004130,REF004130,Referral,ACC091,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004143,REF004143,Referral,ACC005,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004156,REF004156,Referral,ACC016,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004174,REF004174,Referral,ACC120,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004189,REF004189,Referral,ACC087,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004191,REF004191,Referral,ACC002,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004218,REF004218,Referral,ACC012,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004259,REF004259,Referral,ACC065,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004279,REF004279,Referral,ACC093,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004289,REF004289,Referral,ACC031,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004302,REF004302,Referral,ACC056,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004360,REF004360,Referral,ACC061,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004367,REF004367,Referral,ACC080,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004421,REF004421,Referral,ACC049,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004434,REF004434,Referral,ACC087,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004511,REF004511,Referral,ACC010,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004512,REF004512,Referral,ACC092,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004540,REF004540,Referral,ACC059,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004577,REF004577,Referral,ACC107,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004598,REF004598,Referral,ACC103,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004608,REF004608,Referral,ACC018,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004633,REF004633,Referral,ACC053,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004644,REF004644,Referral,ACC038,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004718,REF004718,Referral,ACC004,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004724,REF004724,Referral,ACC084,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004763,REF004763,Referral,ACC069,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004781,REF004781,Referral,ACC062,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004833,REF004833,Referral,ACC088,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004837,REF004837,Referral,ACC031,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004858,REF004858,Referral,ACC120,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004888,REF004888,Referral,ACC085,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004893,REF004893,Referral,ACC012,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004895,REF004895,Referral,ACC111,T06,INT08,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004901,REF004901,Referral,ACC056,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004930,REF004930,Referral,ACC040,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004964,REF004964,Referral,ACC018,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004970,REF004970,Referral,ACC006,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004995,REF004995,Referral,ACC016,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF004998,REF004998,Referral,ACC014,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005006,REF005006,Referral,ACC049,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005010,REF005010,Referral,ACC073,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005032,REF005032,Referral,ACC076,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005071,REF005071,Referral,ACC058,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005096,REF005096,Referral,ACC119,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005154,REF005154,Referral,ACC070,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005170,REF005170,Referral,ACC071,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005185,REF005185,Referral,ACC038,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005188,REF005188,Referral,ACC108,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005190,REF005190,Referral,ACC099,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005211,REF005211,Referral,ACC116,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005212,REF005212,Referral,ACC049,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005219,REF005219,Referral,ACC071,T04,INT_UNASSIGNED,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005273,REF005273,Referral,ACC028,T02,INT_UNASSIGNED,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005323,REF005323,Referral,ACC087,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005375,REF005375,Referral,ACC027,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005391,REF005391,Referral,ACC072,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005395,REF005395,Referral,ACC091,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005409,REF005409,Referral,ACC084,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005426,REF005426,Referral,ACC025,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005444,REF005444,Referral,ACC036,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005451,REF005451,Referral,ACC018,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005456,REF005456,Referral,ACC018,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005479,REF005479,Referral,ACC083,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005523,REF005523,Referral,ACC017,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005540,REF005540,Referral,ACC097,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005569,REF005569,Referral,ACC059,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005588,REF005588,Referral,ACC026,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005596,REF005596,Referral,ACC039,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005611,REF005611,Referral,ACC037,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005613,REF005613,Referral,ACC059,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005616,REF005616,Referral,ACC025,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005624,REF005624,Referral,ACC070,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005635,REF005635,Referral,ACC031,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005641,REF005641,Referral,ACC099,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005668,REF005668,Referral,ACC027,T02,INT02,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005677,REF005677,Referral,ACC020,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005689,REF005689,Referral,ACC094,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005705,REF005705,Referral,ACC002,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005715,REF005715,Referral,ACC057,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005717,REF005717,Referral,ACC087,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005734,REF005734,Referral,ACC067,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005738,REF005738,Referral,ACC068,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005760,REF005760,Referral,ACC085,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005766,REF005766,Referral,ACC110,T06,INT06,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005792,REF005792,Referral,ACC097,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005796,REF005796,Referral,ACC087,T05,INT05,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005802,REF005802,Referral,ACC065,T04,INT04,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005839,REF005839,Referral,ACC054,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005859,REF005859,Referral,ACC048,T03,INT07,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005900,REF005900,Referral,ACC004,T01,INT01,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ01:REF005956,REF005956,Referral,ACC054,T03,INT03,DQ01,Repeated referral ID in source export,Resolved in reporting,Data steward,Retain raw versions; count one referral; confirm survivor rule.,2026-08-31
+DQ02:REF000148,REF000148,Referral,ACC093,T05,INT05,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF000207,REF000207,Referral,ACC074,T04,INT04,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF000279,REF000279,Referral,ACC067,T04,INT_UNASSIGNED,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF000541,REF000541,Referral,ACC085,T05,INT05,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF000598,REF000598,Referral,ACC029,T02,INT02,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF000744,REF000744,Referral,ACC074,T04,INT04,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF000840,REF000840,Referral,ACC075,T04,INT04,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF000859,REF000859,Referral,ACC081,T05,INT05,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF001092,REF001092,Referral,ACC072,T04,INT04,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF001174,REF001174,Referral,ACC024,T02,INT02,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF001192,REF001192,Referral,ACC011,T01,INT01,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF001267,REF001267,Referral,ACC087,T05,INT05,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF001399,REF001399,Referral,ACC064,T04,INT04,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF001527,REF001527,Referral,ACC074,T04,INT04,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF001602,REF001602,Referral,ACC107,T06,INT06,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF001645,REF001645,Referral,ACC011,T01,INT01,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF001956,REF001956,Referral,ACC042,T03,INT03,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF002073,REF002073,Referral,ACC057,T03,INT07,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF002176,REF002176,Referral,ACC104,T06,INT08,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF002226,REF002226,Referral,ACC088,T05,INT05,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF002308,REF002308,Referral,ACC120,T06,INT06,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF002403,REF002403,Referral,ACC045,T03,INT03,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF002815,REF002815,Referral,ACC027,T02,INT02,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF002837,REF002837,Referral,ACC043,T03,INT07,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF002913,REF002913,Referral,ACC087,T05,INT05,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF003223,REF003223,Referral,ACC026,T02,INT02,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF004120,REF004120,Referral,ACC099,T05,INT05,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF004256,REF004256,Referral,ACC116,T06,INT06,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF004754,REF004754,Referral,ACC092,T05,INT05,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF004765,REF004765,Referral,ACC102,T06,INT08,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF005281,REF005281,Referral,ACC076,T04,INT04,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF005386,REF005386,Referral,ACC032,T02,INT02,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF005767,REF005767,Referral,ACC099,T05,INT05,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF005797,REF005797,Referral,ACC047,T03,INT03,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF005851,REF005851,Referral,ACC063,T04,INT04,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ02:REF005977,REF005977,Referral,ACC014,T01,INT01,DQ02,Missing or invalid receipt date,Awaiting review,Intake supervisor,Verify source receipt date; do not guess.,2026-08-31
+DQ03:REF000844,REF000844,Referral,ACC026,T02,INT02,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF000919,REF000919,Referral,ACC057,T03,INT03,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF001006,REF001006,Referral,ACC074,T04,INT04,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF001124,REF001124,Referral,ACC048,T03,INT03,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF001765,REF001765,Referral,ACC081,T05,INT05,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF002075,REF002075,Referral,ACC099,T05,INT05,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF002221,REF002221,Referral,ACC084,T05,INT05,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF002379,REF002379,Referral,ACC018,T01,INT01,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF002650,REF002650,Referral,ACC107,T06,INT06,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF002879,REF002879,Referral,ACC084,T05,INT05,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF003018,REF003018,Referral,ACC120,T06,INT08,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF003037,REF003037,Referral,ACC053,T03,INT03,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF003127,REF003127,Referral,ACC120,T06,INT08,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF003402,REF003402,Referral,ACC032,T02,INT02,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF003521,REF003521,Referral,ACC011,T01,INT01,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF003662,REF003662,Referral,ACC004,T01,INT01,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF003837,REF003837,Referral,ACC018,T01,INT01,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF003872,REF003872,Referral,ACC001,T01,INT01,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF003995,REF003995,Referral,ACC045,T03,INT03,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF004067,REF004067,Referral,ACC024,T02,INT02,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF004345,REF004345,Referral,ACC073,T04,INT04,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF005191,REF005191,Referral,ACC018,T01,INT01,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF005871,REF005871,Referral,ACC049,T03,INT03,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ03:REF005888,REF005888,Referral,ACC036,T02,INT02,DQ03,Invalid event chronology,Awaiting review,Data steward,Compare source events; confirm sequence and correct date.,2026-08-31
+DQ04:REF000277,REF000277,Referral,ACC085,T05,INT05,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF001180,REF001180,Referral,ACC016,T01,INT01,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF001251,REF001251,Referral,ACC008,T01,INT_UNASSIGNED,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF001385,REF001385,Referral,ACC042,T03,INT07,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF001739,REF001739,Referral,ACC035,T02,INT02,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF001787,REF001787,Referral,ACC072,T04,INT04,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF002007,REF002007,Referral,ACC115,T06,INT06,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF002177,REF002177,Referral,ACC018,T01,INT01,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF002230,REF002230,Referral,ACC059,T03,INT07,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF002234,REF002234,Referral,ACC001,T01,INT01,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF003034,REF003034,Referral,ACC050,T03,INT03,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF003283,REF003283,Referral,ACC049,T03,INT03,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF003694,REF003694,Referral,ACC099,T05,INT05,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF003733,REF003733,Referral,ACC046,T03,INT07,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF004060,REF004060,Referral,ACC047,T03,INT07,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF004224,REF004224,Referral,ACC021,T02,INT02,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF004562,REF004562,Referral,ACC085,T05,INT05,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ04:REF005085,REF005085,Referral,ACC002,T01,INT01,DQ04,Missing stage-event date,Awaiting review,Intake supervisor,Verify the missing event timestamp before timed reporting.,2026-08-31
+DQ05:REF000328,REF000328,Referral,ACC107,T06,INT06,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF000760,REF000760,Referral,ACC019,T01,INT01,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF001127,REF001127,Referral,ACC110,T06,INT06,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF001189,REF001189,Referral,ACC102,T06,INT08,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF001295,REF001295,Referral,ACC104,T06,INT08,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF002193,REF002193,Referral,ACC034,T02,INT02,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF002207,REF002207,Referral,ACC085,T05,INT05,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF002764,REF002764,Referral,ACC087,T05,INT05,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF002861,REF002861,Referral,ACC079,T04,INT04,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF002908,REF002908,Referral,ACC036,T02,INT02,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF003080,REF003080,Referral,ACC022,T02,INT02,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF003486,REF003486,Referral,ACC067,T04,INT04,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF004496,REF004496,Referral,ACC095,T05,INT05,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF005076,REF005076,Referral,ACC041,T03,INT03,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF005161,REF005161,Referral,ACC108,T06,INT06,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF005452,REF005452,Referral,ACC033,T02,INT02,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF005587,REF005587,Referral,ACC085,T05,INT05,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ05:REF005733,REF005733,Referral,ACC076,T04,INT04,DQ05,Unmapped source status,Awaiting review,Data steward,Confirm intended status; approve any mapping change.,2026-08-31
+DQ06:REF000186,REF000186,Referral,ACC084,T05,INT05,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF000626,REF000626,Referral,ACC094,T05,INT05,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF000987,REF000987,Referral,ACC116,T06,INT06,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF001062,REF001062,Referral,ACC114,T06,INT08,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF001156,REF001156,Referral,ACC115,T06,INT08,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF001347,REF001347,Referral,ACC091,T05,INT05,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF001401,REF001401,Referral,ACC042,T03,INT03,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF001866,REF001866,Referral,ACC073,T04,INT04,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF002249,REF002249,Referral,ACC043,T03,INT07,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF002711,REF002711,Referral,ACC103,T06,INT06,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF002986,REF002986,Referral,ACC042,T03,INT07,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF003175,REF003175,Referral,ACC099,T05,INT05,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF003429,REF003429,Referral,ACC003,T01,INT01,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF003772,REF003772,Referral,ACC063,T04,INT04,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF004343,REF004343,Referral,ACC057,T03,INT07,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF004432,REF004432,Referral,ACC092,T05,INT05,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF004463,REF004463,Referral,ACC110,T06,INT08,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF004696,REF004696,Referral,ACC051,T03,INT07,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF005011,REF005011,Referral,ACC118,T06,INT06,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF005029,REF005029,Referral,ACC073,T04,INT04,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF005073,REF005073,Referral,ACC078,T04,INT04,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF005098,REF005098,Referral,ACC086,T05,INT05,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF005357,REF005357,Referral,ACC011,T01,INT01,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ06:REF005500,REF005500,Referral,ACC043,T03,INT03,DQ06,Source status disagrees with event history,Awaiting review,Intake supervisor,Reconcile status; reporting uses event sequence provisionally.,2026-08-31
+DQ07:REF000028,REF000028,Referral,ACC079,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000086,REF000086,Referral,ACC119,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000088,REF000088,Referral,ACC053,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000228,REF000228,Referral,ACC115,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000263,REF000263,Referral,ACC078,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000279,REF000279,Referral,ACC067,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000294,REF000294,Referral,ACC074,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000312,REF000312,Referral,ACC008,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000324,REF000324,Referral,ACC110,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000401,REF000401,Referral,ACC011,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000403,REF000403,Referral,ACC001,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000421,REF000421,Referral,ACC120,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000467,REF000467,Referral,ACC075,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000546,REF000546,Referral,ACC013,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000632,REF000632,Referral,ACC051,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000643,REF000643,Referral,ACC084,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000712,REF000712,Referral,ACC109,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000739,REF000739,Referral,ACC096,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000802,REF000802,Referral,ACC072,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000805,REF000805,Referral,ACC018,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000818,REF000818,Referral,ACC063,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000820,REF000820,Referral,ACC086,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000838,REF000838,Referral,ACC082,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000841,REF000841,Referral,ACC042,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000921,REF000921,Referral,ACC068,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000940,REF000940,Referral,ACC107,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF000973,REF000973,Referral,ACC094,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001085,REF001085,Referral,ACC099,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001120,REF001120,Referral,ACC041,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001211,REF001211,Referral,ACC062,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001227,REF001227,Referral,ACC031,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001251,REF001251,Referral,ACC008,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001321,REF001321,Referral,ACC016,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001338,REF001338,Referral,ACC057,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001374,REF001374,Referral,ACC028,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001408,REF001408,Referral,ACC074,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001424,REF001424,Referral,ACC015,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001429,REF001429,Referral,ACC014,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001493,REF001493,Referral,ACC018,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001523,REF001523,Referral,ACC021,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001524,REF001524,Referral,ACC053,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001609,REF001609,Referral,ACC095,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001612,REF001612,Referral,ACC072,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001629,REF001629,Referral,ACC084,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001740,REF001740,Referral,ACC075,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001826,REF001826,Referral,ACC056,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001889,REF001889,Referral,ACC065,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001910,REF001910,Referral,ACC011,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001964,REF001964,Referral,ACC046,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001979,REF001979,Referral,ACC095,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF001985,REF001985,Referral,ACC086,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002002,REF002002,Referral,ACC085,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002036,REF002036,Referral,ACC111,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002122,REF002122,Referral,ACC106,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002253,REF002253,Referral,ACC060,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002263,REF002263,Referral,ACC034,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002269,REF002269,Referral,ACC028,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002310,REF002310,Referral,ACC082,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002315,REF002315,Referral,ACC029,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002323,REF002323,Referral,ACC103,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002420,REF002420,Referral,ACC108,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002505,REF002505,Referral,ACC110,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002569,REF002569,Referral,ACC095,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002578,REF002578,Referral,ACC118,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002588,REF002588,Referral,ACC040,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002592,REF002592,Referral,ACC059,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002702,REF002702,Referral,ACC001,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002747,REF002747,Referral,ACC025,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002782,REF002782,Referral,ACC073,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002824,REF002824,Referral,ACC119,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002839,REF002839,Referral,ACC011,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002859,REF002859,Referral,ACC064,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002868,REF002868,Referral,ACC050,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002892,REF002892,Referral,ACC111,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002930,REF002930,Referral,ACC023,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002969,REF002969,Referral,ACC009,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002970,REF002970,Referral,ACC057,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF002997,REF002997,Referral,ACC031,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003009,REF003009,Referral,ACC033,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003066,REF003066,Referral,ACC072,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003070,REF003070,Referral,ACC090,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003098,REF003098,Referral,ACC098,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003107,REF003107,Referral,ACC025,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003108,REF003108,Referral,ACC085,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003110,REF003110,Referral,ACC062,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003111,REF003111,Referral,ACC118,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003152,REF003152,Referral,ACC111,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003265,REF003265,Referral,ACC023,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003284,REF003284,Referral,ACC062,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003304,REF003304,Referral,ACC029,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003322,REF003322,Referral,ACC003,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003501,REF003501,Referral,ACC084,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003530,REF003530,Referral,ACC013,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003625,REF003625,Referral,ACC015,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003649,REF003649,Referral,ACC059,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003714,REF003714,Referral,ACC030,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003779,REF003779,Referral,ACC035,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003788,REF003788,Referral,ACC100,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF003842,REF003842,Referral,ACC006,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004188,REF004188,Referral,ACC008,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004245,REF004245,Referral,ACC061,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004255,REF004255,Referral,ACC076,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004295,REF004295,Referral,ACC054,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004369,REF004369,Referral,ACC074,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004412,REF004412,Referral,ACC101,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004430,REF004430,Referral,ACC070,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004438,REF004438,Referral,ACC049,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004454,REF004454,Referral,ACC035,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004514,REF004514,Referral,ACC084,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004520,REF004520,Referral,ACC018,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004535,REF004535,Referral,ACC013,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004536,REF004536,Referral,ACC016,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004652,REF004652,Referral,ACC019,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004669,REF004669,Referral,ACC023,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004692,REF004692,Referral,ACC004,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004701,REF004701,Referral,ACC089,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004717,REF004717,Referral,ACC037,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004726,REF004726,Referral,ACC107,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004735,REF004735,Referral,ACC111,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004739,REF004739,Referral,ACC075,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004766,REF004766,Referral,ACC059,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF004849,REF004849,Referral,ACC008,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005047,REF005047,Referral,ACC047,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005165,REF005165,Referral,ACC054,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005169,REF005169,Referral,ACC118,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005219,REF005219,Referral,ACC071,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005272,REF005272,Referral,ACC089,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005273,REF005273,Referral,ACC028,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005295,REF005295,Referral,ACC009,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005298,REF005298,Referral,ACC046,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005349,REF005349,Referral,ACC083,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005364,REF005364,Referral,ACC029,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005389,REF005389,Referral,ACC023,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005486,REF005486,Referral,ACC115,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005522,REF005522,Referral,ACC087,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005532,REF005532,Referral,ACC013,T01,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005538,REF005538,Referral,ACC033,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005580,REF005580,Referral,ACC054,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005656,REF005656,Referral,ACC044,T03,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005718,REF005718,Referral,ACC062,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005725,REF005725,Referral,ACC095,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005771,REF005771,Referral,ACC075,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005842,REF005842,Referral,ACC036,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005878,REF005878,Referral,ACC028,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005912,REF005912,Referral,ACC080,T04,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005920,REF005920,Referral,ACC099,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005954,REF005954,Referral,ACC037,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005960,REF005960,Referral,ACC107,T06,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005963,REF005963,Referral,ACC095,T05,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ07:REF005970,REF005970,Referral,ACC026,T02,INT_UNASSIGNED,DQ07,Missing intake owner,Awaiting review,Intake supervisor,Assign accountable intake owner; do not substitute the sales rep.,2026-08-31
+DQ08:REF000020,REF000020,Referral,ACC059,T03,INT07,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF000200,REF000200,Referral,ACC047,T03,INT03,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF000245,REF000245,Referral,ACC074,T04,INT04,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF000547,REF000547,Referral,ACC056,T03,INT07,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF000809,REF000809,Referral,ACC085,T05,INT05,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF000826,REF000826,Referral,ACC119,T06,INT08,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF000828,REF000828,Referral,ACC056,T03,INT07,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF001088,REF001088,Referral,ACC002,T01,INT01,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF001114,REF001114,Referral,ACC024,T02,INT02,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF001137,REF001137,Referral,ACC047,T03,INT03,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF001382,REF001382,Referral,ACC010,T01,INT01,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF001515,REF001515,Referral,ACC011,T01,INT01,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF001543,REF001543,Referral,ACC042,T03,INT07,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF001618,REF001618,Referral,ACC065,T04,INT04,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF001835,REF001835,Referral,ACC008,T01,INT01,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF001856,REF001856,Referral,ACC024,T02,INT02,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF001860,REF001860,Referral,ACC063,T04,INT04,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF002454,REF002454,Referral,ACC054,T03,INT07,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF002597,REF002597,Referral,ACC085,T05,INT05,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF002606,REF002606,Referral,ACC015,T01,INT01,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF002622,REF002622,Referral,ACC116,T06,INT08,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF002656,REF002656,Referral,ACC077,T04,INT04,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF002714,REF002714,Referral,ACC020,T01,INT01,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF002869,REF002869,Referral,ACC025,T02,INT02,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF002971,REF002971,Referral,ACC079,T04,INT04,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003348,REF003348,Referral,ACC063,T04,INT04,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003397,REF003397,Referral,ACC014,T01,INT01,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003412,REF003412,Referral,ACC026,T02,INT02,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003503,REF003503,Referral,ACC065,T04,INT04,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003507,REF003507,Referral,ACC118,T06,INT08,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003624,REF003624,Referral,ACC012,T01,INT01,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003625,REF003625,Referral,ACC015,T01,INT_UNASSIGNED,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003647,REF003647,Referral,ACC062,T04,INT04,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003686,REF003686,Referral,ACC003,T01,INT01,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003730,REF003730,Referral,ACC099,T05,INT05,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003766,REF003766,Referral,ACC031,T02,INT02,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF003776,REF003776,Referral,ACC107,T06,INT06,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF004057,REF004057,Referral,ACC110,T06,INT08,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF004160,REF004160,Referral,ACC100,T05,INT05,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF004181,REF004181,Referral,ACC027,T02,INT02,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF004205,REF004205,Referral,ACC029,T02,INT02,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF004300,REF004300,Referral,ACC087,T05,INT05,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF004481,REF004481,Referral,ACC035,T02,INT02,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF004663,REF004663,Referral,ACC084,T05,INT05,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF004701,REF004701,Referral,ACC089,T05,INT_UNASSIGNED,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF004964,REF004964,Referral,ACC018,T01,INT01,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF005117,REF005117,Referral,ACC057,T03,INT03,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF005496,REF005496,Referral,ACC047,T03,INT07,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF005823,REF005823,Referral,ACC085,T05,INT05,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ08:REF005884,REF005884,Referral,ACC026,T02,INT02,DQ08,Open task missing due date,Awaiting review,Intake supervisor,Verify and enter a next follow-up due date.,2026-08-31
+DQ09:REF000002,REF000002,Referral,ACC071,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000089,REF000089,Referral,ACC044,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000102,REF000102,Referral,ACC049,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000191,REF000191,Referral,ACC031,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000226,REF000226,Referral,ACC079,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000240,REF000240,Referral,ACC064,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000292,REF000292,Referral,ACC092,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000316,REF000316,Referral,ACC001,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000348,REF000348,Referral,ACC048,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000350,REF000350,Referral,ACC088,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000390,REF000390,Referral,ACC022,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000421,REF000421,Referral,ACC120,T06,INT_UNASSIGNED,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000484,REF000484,Referral,ACC084,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000543,REF000543,Referral,ACC068,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000573,REF000573,Referral,ACC085,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000767,REF000767,Referral,ACC117,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000836,REF000836,Referral,ACC109,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000925,REF000925,Referral,ACC074,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000959,REF000959,Referral,ACC026,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF000996,REF000996,Referral,ACC015,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001003,REF001003,Referral,ACC015,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001089,REF001089,Referral,ACC026,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001194,REF001194,Referral,ACC028,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001213,REF001213,Referral,ACC006,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001239,REF001239,Referral,ACC119,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001276,REF001276,Referral,ACC049,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001303,REF001303,Referral,ACC065,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001304,REF001304,Referral,ACC094,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001327,REF001327,Referral,ACC058,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001370,REF001370,Referral,ACC042,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001381,REF001381,Referral,ACC075,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001422,REF001422,Referral,ACC105,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001423,REF001423,Referral,ACC093,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001431,REF001431,Referral,ACC035,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001451,REF001451,Referral,ACC034,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001544,REF001544,Referral,ACC079,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001579,REF001579,Referral,ACC030,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001660,REF001660,Referral,ACC005,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001687,REF001687,Referral,ACC034,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF001911,REF001911,Referral,ACC020,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002075,REF002075,Referral,ACC099,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002076,REF002076,Referral,ACC033,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002134,REF002134,Referral,ACC059,T03,INT03,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002163,REF002163,Referral,ACC060,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002218,REF002218,Referral,ACC011,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002279,REF002279,Referral,ACC106,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002304,REF002304,Referral,ACC116,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002328,REF002328,Referral,ACC060,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002375,REF002375,Referral,ACC008,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002436,REF002436,Referral,ACC111,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002496,REF002496,Referral,ACC036,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002547,REF002547,Referral,ACC095,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002562,REF002562,Referral,ACC009,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002564,REF002564,Referral,ACC111,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002576,REF002576,Referral,ACC118,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002577,REF002577,Referral,ACC058,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002654,REF002654,Referral,ACC007,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002658,REF002658,Referral,ACC050,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002715,REF002715,Referral,ACC007,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002766,REF002766,Referral,ACC114,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002793,REF002793,Referral,ACC079,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002843,REF002843,Referral,ACC013,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002940,REF002940,Referral,ACC033,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002963,REF002963,Referral,ACC054,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002967,REF002967,Referral,ACC074,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF002968,REF002968,Referral,ACC087,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003002,REF003002,Referral,ACC006,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003017,REF003017,Referral,ACC072,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003091,REF003091,Referral,ACC120,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003144,REF003144,Referral,ACC042,T03,INT03,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003152,REF003152,Referral,ACC111,T06,INT_UNASSIGNED,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003201,REF003201,Referral,ACC113,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003227,REF003227,Referral,ACC011,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003337,REF003337,Referral,ACC115,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003339,REF003339,Referral,ACC068,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003432,REF003432,Referral,ACC081,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003445,REF003445,Referral,ACC036,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003463,REF003463,Referral,ACC052,T03,INT03,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003506,REF003506,Referral,ACC067,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003533,REF003533,Referral,ACC038,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003547,REF003547,Referral,ACC061,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003573,REF003573,Referral,ACC039,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003605,REF003605,Referral,ACC028,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003678,REF003678,Referral,ACC021,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003691,REF003691,Referral,ACC074,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003698,REF003698,Referral,ACC057,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003704,REF003704,Referral,ACC065,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003729,REF003729,Referral,ACC109,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003738,REF003738,Referral,ACC093,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003754,REF003754,Referral,ACC001,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003798,REF003798,Referral,ACC073,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003872,REF003872,Referral,ACC001,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003907,REF003907,Referral,ACC104,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF003990,REF003990,Referral,ACC012,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004080,REF004080,Referral,ACC117,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004122,REF004122,Referral,ACC041,T03,INT03,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004152,REF004152,Referral,ACC040,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004164,REF004164,Referral,ACC017,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004176,REF004176,Referral,ACC085,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004183,REF004183,Referral,ACC018,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004233,REF004233,Referral,ACC081,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004234,REF004234,Referral,ACC068,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004252,REF004252,Referral,ACC114,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004304,REF004304,Referral,ACC076,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004327,REF004327,Referral,ACC063,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004335,REF004335,Referral,ACC120,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004341,REF004341,Referral,ACC051,T03,INT03,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004363,REF004363,Referral,ACC045,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004369,REF004369,Referral,ACC074,T04,INT_UNASSIGNED,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004412,REF004412,Referral,ACC101,T06,INT_UNASSIGNED,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004427,REF004427,Referral,ACC023,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004450,REF004450,Referral,ACC073,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004464,REF004464,Referral,ACC057,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004470,REF004470,Referral,ACC055,T03,INT03,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004472,REF004472,Referral,ACC118,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004566,REF004566,Referral,ACC115,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004597,REF004597,Referral,ACC096,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004628,REF004628,Referral,ACC022,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004662,REF004662,Referral,ACC093,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004773,REF004773,Referral,ACC116,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004909,REF004909,Referral,ACC091,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004974,REF004974,Referral,ACC025,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF004989,REF004989,Referral,ACC084,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005024,REF005024,Referral,ACC107,T06,INT06,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005120,REF005120,Referral,ACC060,T03,INT03,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005150,REF005150,Referral,ACC050,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005175,REF005175,Referral,ACC075,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005250,REF005250,Referral,ACC008,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005253,REF005253,Referral,ACC025,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005271,REF005271,Referral,ACC102,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005282,REF005282,Referral,ACC072,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005293,REF005293,Referral,ACC095,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005355,REF005355,Referral,ACC011,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005359,REF005359,Referral,ACC048,T03,INT03,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005388,REF005388,Referral,ACC038,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005411,REF005411,Referral,ACC050,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005442,REF005442,Referral,ACC085,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005446,REF005446,Referral,ACC018,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005487,REF005487,Referral,ACC102,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005522,REF005522,Referral,ACC087,T05,INT_UNASSIGNED,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005525,REF005525,Referral,ACC083,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005592,REF005592,Referral,ACC117,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005627,REF005627,Referral,ACC119,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005630,REF005630,Referral,ACC078,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005646,REF005646,Referral,ACC054,T03,INT03,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005733,REF005733,Referral,ACC076,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005760,REF005760,Referral,ACC085,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005808,REF005808,Referral,ACC080,T04,INT04,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005811,REF005811,Referral,ACC038,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005855,REF005855,Referral,ACC087,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005880,REF005880,Referral,ACC086,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005886,REF005886,Referral,ACC044,T03,INT07,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005912,REF005912,Referral,ACC080,T04,INT_UNASSIGNED,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005922,REF005922,Referral,ACC019,T01,INT01,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005953,REF005953,Referral,ACC116,T06,INT08,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005973,REF005973,Referral,ACC037,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005983,REF005983,Referral,ACC040,T02,INT02,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ09:REF005995,REF005995,Referral,ACC087,T05,INT05,DQ09,Scheduling queue missing follow-up task,Awaiting review,Intake supervisor,Create a dated follow-up task after record review.,2026-08-31
+DQ10:ACC007,ACC007,Account,ACC007,T01,INT_UNASSIGNED,DQ10,Missing sales account owner,Awaiting review,Sales operations,Assign sales account owner; retain intake ownership separately.,2026-08-31
+DQ10:ACC028,ACC028,Account,ACC028,T02,INT_UNASSIGNED,DQ10,Missing sales account owner,Awaiting review,Sales operations,Assign sales account owner; retain intake ownership separately.,2026-08-31
+DQ10:ACC046,ACC046,Account,ACC046,T03,INT_UNASSIGNED,DQ10,Missing sales account owner,Awaiting review,Sales operations,Assign sales account owner; retain intake ownership separately.,2026-08-31
+DQ10:ACC069,ACC069,Account,ACC069,T04,INT_UNASSIGNED,DQ10,Missing sales account owner,Awaiting review,Sales operations,Assign sales account owner; retain intake ownership separately.,2026-08-31
+DQ10:ACC084,ACC084,Account,ACC084,T05,INT_UNASSIGNED,DQ10,Missing sales account owner,Awaiting review,Sales operations,Assign sales account owner; retain intake ownership separately.,2026-08-31
+DQ10:ACC113,ACC113,Account,ACC113,T06,INT_UNASSIGNED,DQ10,Missing sales account owner,Awaiting review,Sales operations,Assign sales account owner; retain intake ownership separately.,2026-08-31

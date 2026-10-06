@@ -1,0 +1,13 @@
+﻿uat_id,requirement_id,steps,expected_result,actual_result,evidence,tester,test_date,status
+U01,R01,Import base model; show Unique Referrals with no filters.,"6,000 referrals; raw profile is 6,300 rows; one row per referral in reporting.",,,,,Not run
+U02,R02,"Show mature count and booking rate unfiltered, then inspect August receipt cohort.","5,602 mature; 4,024 booked in 30 days; 71.8%; only Aug 1 receipts can be mature within August.",,,,,Not run
+U03,R03,Use year_month with First Visits Completed and reconcile to SQL analysis C.,"Values match completion month, not receipt month; total valid dated completions = 4,278.",,,,,Not run
+U04,R04,Filter exception rules DQ05 and DQ06; compare source and event-derived stage.,18 unmapped source statuses and 24 disagreements remain visible for review; no inferred status repair.,,,,,Not run
+U05,R05,Filter unassigned open referrals and compare to the SQL queue.,"21 open ownerless referrals; intake owner is unassigned, not replaced by sales rep.",,,,,Not run
+U06,R06,"Inspect overdue cases, missing due dates, and missing-task cases separately.",408 overdue referral records unfiltered; due-today records excluded; missing dates/tasks explicitly labeled.,,,,,Not run
+U07,R07,"Compare target by month/territory; then apply account, payer, rep, and day-level filters.",Matches SQL analysis G at supported grain; target measure returns blank under unsupported filtering.,,,,,Not run
+U08,R08,Use an unfiltered exception view and reconcile timed exclusions; apply receipt-month filter elsewhere.,78 timing exclusions globally; 36 missing-receipt referrals remain in the global audit/exception population.,,,,,Not run
+U09,R09,"Inspect account snapshot periods, a zero-prior-volume case, and a small-prior-volume decline.",Windows Aug 2–31 / Jul 3–Aug 1; prior-zero percentage blank; no decline-action trigger for prior < 5.,,,,,Not run
+U10,R10,"Display issue count, distinct affected referrals, and affected accounts separately.",784 issue rows globally; multi-issue referrals counted once in affected-referral measure; account types separate.,,,,,Not run
+U11,R11,Navigate with Page 1 date filter active; inspect Pages 2–3 and snapshot labels.,"No hidden synced date filter suppresses current queue or account snapshot; as-of date remains Aug 31, 2026.",,,,,Not run
+U12,R12,"Inspect all pages, exports, README, and model before public sharing.",Synthetic disclosure visible; no real patient/employer data; no completed pilot/causal-benefit claims.,,,,,Not run
