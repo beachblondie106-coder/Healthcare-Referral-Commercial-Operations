@@ -1,7 +1,7 @@
 {
   "as_of_date": "2026-08-31",
-  "sqlite_version": "3.46.1",
-  "python_version": "3.13.5",
+  "sqlite_version": "3.53.1",
+  "python_version": "3.12.14",
   "tests": {
     "total": 40,
     "passed": 40,

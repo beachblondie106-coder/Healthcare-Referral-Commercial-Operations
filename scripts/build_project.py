@@ -78,7 +78,14 @@ def build() -> None:
         run=dict(as_of_date='2026-08-31',sqlite_version=sqlite3.sqlite_version,python_version=sys.version.split()[0],
                  tests=summary,reporting_row_counts=row_counts,scope='Synthetic data and SQL validation only; Power BI not executed.')
         (ROOT/'tests'/'build_log.json').write_text(json.dumps(run,indent=2)+'\n',encoding='utf-8')
-        con.close(); tmp.replace(db)
+        con.close()
+        try:
+            tmp.replace(db)
+        except PermissionError as error:
+            raise RuntimeError(
+                'Could not replace the SQLite database because it is open in another program. '
+                'Close DB Browser for SQLite (or any other application using the database) and run the build again.'
+            ) from error
         print(json.dumps(run,indent=2))
     except Exception:
         con.close()
